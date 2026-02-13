@@ -1,0 +1,2886 @@
+{
+  "items": [
+    {
+      "id": "130404104",
+      "premium": false,
+      "name": "Водитель",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": {
+        "from": 400000,
+        "to": null,
+        "currency": "KZT",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 400000,
+        "to": null,
+        "currency": "KZT",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "MONTHLY",
+          "name": "Раз в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Алматы",
+        "street": "проспект Суюнбая",
+        "building": "481Г",
+        "lat": 43.355059,
+        "lng": 76.98041,
+        "description": null,
+        "raw": "Алматы, проспект Суюнбая, 481Г",
+        "metro": null,
+        "metro_stations": [],
+        "id": "23196225"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-12T15:16:44+0300",
+      "created_at": "2026-02-12T15:16:44+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130404104",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130404104?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130404104",
+      "relations": [],
+      "employer": {
+        "id": "1102510",
+        "name": "EXPLANTA",
+        "url": "https://api.hh.ru/employers/1102510",
+        "alternate_url": "https://hh.ru/employer/1102510",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/4070046.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo-round/4070047.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo-round/4070048.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1102510",
+        "country_id": 3,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы водителем не менее 2 лет. Хорошее знание города. Водительское удостоверение категории В, С . Честность, трудолюбие, ответственное отношение к...",
+        "responsibility": "Перевозка грузов компании. Контроль и поддержание исправного технического состояния автомобиля. В сезон (весной и начало лета) возможна полная загруженность, после..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        },
+        {
+          "id": "FIELD_WORK",
+          "name": "Разъездной"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": true,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "21",
+          "name": "Водитель"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130153084",
+      "premium": false,
+      "name": "Стажёр / начинающий специалист 1С",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2759",
+        "name": "Ташкент",
+        "url": "https://api.hh.ru/areas/2759"
+      },
+      "salary": {
+        "from": 6000000,
+        "to": null,
+        "currency": "UZS",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 6000000,
+        "to": null,
+        "currency": "UZS",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ташкент",
+        "street": "улица Буюк Турон",
+        "building": "77",
+        "lat": 41.302711,
+        "lng": 69.267286,
+        "description": null,
+        "raw": "Ташкент, улица Буюк Турон, 77",
+        "metro": null,
+        "metro_stations": [],
+        "id": "17601777"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-04T09:48:06+0300",
+      "created_at": "2026-02-04T09:48:06+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130153084",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130153084?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130153084",
+      "relations": [],
+      "employer": {
+        "id": "11678149",
+        "name": "AIVA INVEST",
+        "url": "https://api.hh.ru/employers/11678149",
+        "alternate_url": "https://hh.ru/employer/11678149",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11678149",
+        "country_id": 6,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Мы рассматриваем кандидатов без опыта, которые хотят развиваться в направлениях: - Готовиться к официальной сертификации 1С. - Желание освоить 1С...",
+        "responsibility": "1С: Бухгалтерия. - 1С: Управление компанией. - Разработка на платформе 1С. На этапе обучения и стажировки вы будете: - Изучать..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "129447047",
+      "premium": false,
+      "name": "Продавец-кассир в корейский магазин IU",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Алматы",
+        "street": "улица Байзакова",
+        "building": "225",
+        "lat": 43.246955,
+        "lng": 76.911958,
+        "description": null,
+        "raw": "Алматы, улица Байзакова, 225",
+        "metro": null,
+        "metro_stations": [],
+        "id": "11384960"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-01-15T08:06:26+0300",
+      "created_at": "2026-01-15T08:06:26+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129447047",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/129447047?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/129447047",
+      "relations": [],
+      "employer": {
+        "id": "4930600",
+        "name": "All retail (Ол ритэйл)",
+        "url": "https://api.hh.ru/employers/4930600",
+        "alternate_url": "https://hh.ru/employer/4930600",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/5562463.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo-round/5562464.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo-round/5562465.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4930600",
+        "country_id": 3,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Нужен человек на постоянной основе. Предпочтение отдается кандидатам с опытом работы. Уверенное знание сервиса и кассовой системы. Личные качества: пунктуальность...",
+        "responsibility": "Обслуживание посетителей на кассе. Контроль и обеспечение чистоты в баре. Прием товара. Выкладка и работа в зале. Формирование заказов,при..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "С началом дня после 16:00"
+        }
+      ],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_12",
+          "name": "12 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "TWO_ON_TWO_OFF",
+          "name": "2/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [
+        {
+          "id": "INDIVIDUAL_PERSON",
+          "name": "с физлицом"
+        },
+        {
+          "id": "INDIVIDUAL_ENTREPRENEUR",
+          "name": "с ИП"
+        },
+        {
+          "id": "SELF_EMPLOYED",
+          "name": "с самозанятым"
+        }
+      ],
+      "night_shifts": true,
+      "professional_roles": [
+        {
+          "id": "97",
+          "name": "Продавец-консультант, продавец-кассир"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "125985241",
+      "premium": false,
+      "name": "Пикер на электрокаре",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 7500,
+        "to": 8571,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 7500,
+        "to": 8571,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "SHIFT",
+          "name": "За смену"
+        },
+        "frequency": {
+          "id": "DAILY",
+          "name": "Ежедневно"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-01-20T13:39:32+0300",
+      "created_at": "2026-01-20T13:39:32+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=125985241",
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/125985241?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/125985241",
+      "relations": [],
+      "employer": {
+        "id": "5756414",
+        "name": "Журавлев Александр Сергеевич",
+        "url": "https://api.hh.ru/employers/5756414",
+        "alternate_url": "https://hh.ru/employer/5756414",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5756414",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Просто ездить по складу на электрокаре(легко управлять) и собирать товары по списку в мобильной программе. Тяжести тоскать не надо...",
+        "responsibility": "Нужно ещё пикать каждую позицию портативной пикалкой."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "С началом дня после 16:00"
+        }
+      ],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_4",
+          "name": "4 часа"
+        },
+        {
+          "id": "HOURS_6",
+          "name": "6 часов"
+        },
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        },
+        {
+          "id": "HOURS_10",
+          "name": "10 часов"
+        },
+        {
+          "id": "HOURS_12",
+          "name": "12 часов"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "По договорённости"
+        },
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "SIX_ON_ONE_OFF",
+          "name": "6/1"
+        },
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        },
+        {
+          "id": "FOUR_ON_FOUR_OFF",
+          "name": "4/4"
+        },
+        {
+          "id": "FOUR_ON_THREE_OFF",
+          "name": "4/3"
+        },
+        {
+          "id": "FOUR_ON_TWO_OFF",
+          "name": "4/2"
+        },
+        {
+          "id": "THREE_ON_THREE_OFF",
+          "name": "3/3"
+        },
+        {
+          "id": "THREE_ON_TWO_OFF",
+          "name": "3/2"
+        },
+        {
+          "id": "TWO_ON_TWO_OFF",
+          "name": "2/2"
+        },
+        {
+          "id": "WEEKEND",
+          "name": "По выходным"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        },
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [
+        {
+          "id": "SELF_EMPLOYED",
+          "name": "с самозанятым"
+        },
+        {
+          "id": "INDIVIDUAL_ENTREPRENEUR",
+          "name": "с ИП"
+        },
+        {
+          "id": "INDIVIDUAL_PERSON",
+          "name": "с физлицом"
+        }
+      ],
+      "night_shifts": true,
+      "professional_roles": [
+        {
+          "id": "52",
+          "name": "Кладовщик"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130266493",
+      "premium": false,
+      "name": "Водитель",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": {
+        "from": 500000,
+        "to": 1000000,
+        "currency": "KZT",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 500000,
+        "to": 1000000,
+        "currency": "KZT",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "DAILY",
+          "name": "Ежедневно"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Алматы",
+        "street": "проспект Райымбека",
+        "building": "348/4",
+        "lat": 43.255294,
+        "lng": 76.864293,
+        "description": null,
+        "raw": "Алматы, проспект Райымбека, 348/4",
+        "metro": {
+          "station_name": "Алатау",
+          "line_name": "Первая",
+          "station_id": "64.436",
+          "line_id": "64",
+          "lat": 43.239041,
+          "lng": 76.897612
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алатау",
+            "line_name": "Первая",
+            "station_id": "64.436",
+            "line_id": "64",
+            "lat": 43.239041,
+            "lng": 76.897612
+          },
+          {
+            "station_name": "Москва",
+            "line_name": "Первая",
+            "station_id": "64.511",
+            "line_id": "64",
+            "lat": 43.23,
+            "lng": 76.867
+          },
+          {
+            "station_name": "Сайран",
+            "line_name": "Первая",
+            "station_id": "64.510",
+            "line_id": "64",
+            "lat": 43.2362,
+            "lng": 76.8764
+          },
+          {
+            "station_name": "Сары-Арка",
+            "line_name": "Первая",
+            "station_id": "64.819",
+            "line_id": "64",
+            "lat": 43.22,
+            "lng": 76.851111
+          }
+        ],
+        "id": "21092007"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-09T08:04:08+0300",
+      "created_at": "2026-02-09T08:04:08+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130266493",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130266493?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130266493",
+      "relations": [],
+      "employer": {
+        "id": "9743837",
+        "name": "Хелилова Р Ш",
+        "url": "https://api.hh.ru/employers/9743837",
+        "alternate_url": "https://hh.ru/employer/9743837",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/6540372.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/6540373.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/6540374.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9743837",
+        "country_id": 3,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Пунктуальность. Аккуратность. Акцент -элантра 2022-2023 года.",
+        "responsibility": "Водить машину. Аренда авто. Ремонт, замена масло с таксопарка."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "FIELD_WORK",
+          "name": "Разъездной"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_9",
+          "name": "9 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "SIX_ON_ONE_OFF",
+          "name": "6/1"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [
+        {
+          "id": "SELF_EMPLOYED",
+          "name": "с самозанятым"
+        },
+        {
+          "id": "INDIVIDUAL_ENTREPRENEUR",
+          "name": "с ИП"
+        },
+        {
+          "id": "INDIVIDUAL_PERSON",
+          "name": "с физлицом"
+        }
+      ],
+      "night_shifts": true,
+      "professional_roles": [
+        {
+          "id": "21",
+          "name": "Водитель"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130100999",
+      "premium": false,
+      "name": "Агент по обслуживанию пассажиров в Аэропорт Ташкента",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2759",
+        "name": "Ташкент",
+        "url": "https://api.hh.ru/areas/2759"
+      },
+      "salary": {
+        "from": 8400000,
+        "to": null,
+        "currency": "UZS",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 8400000,
+        "to": null,
+        "currency": "UZS",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ташкент",
+        "street": "аэропорт Ташкент имени Ислама Каримова",
+        "building": null,
+        "lat": 41.261837,
+        "lng": 69.267205,
+        "description": null,
+        "raw": "Ташкент, аэропорт Ташкент имени Ислама Каримова",
+        "metro": null,
+        "metro_stations": [],
+        "id": "20656868"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-02T16:52:12+0300",
+      "created_at": "2026-02-02T16:52:12+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130100999",
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130100999?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130100999",
+      "relations": [],
+      "employer": {
+        "id": "12452768",
+        "name": "SKYSERV PRO MMC",
+        "url": "https://api.hh.ru/employers/12452768",
+        "alternate_url": "https://hh.ru/employer/12452768",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12452768",
+        "country_id": 6,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Образование: средне-специальное, высшее оконченное. - Знание узбекского, английского и русского языков на разговорном уровне (В1-В2). - ",
+        "responsibility": "ОПИСАНИЕ РАБОТЫ. Приветствие и регистрация пассажиров бизнес-зала. Проверка права доступа в бизнес-зал (билеты, карты лояльности, приглашения авиакомпаний). "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_10",
+          "name": "10 часов"
+        },
+        {
+          "id": "HOURS_12",
+          "name": "12 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "TWO_ON_TWO_OFF",
+          "name": "2/2"
+        },
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": true,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130374479",
+      "premium": false,
+      "name": "Диспетчер",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2301",
+        "name": "Лида",
+        "url": "https://api.hh.ru/areas/2301"
+      },
+      "salary": {
+        "from": 1200,
+        "to": null,
+        "currency": "BYR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 1200,
+        "to": null,
+        "currency": "BYR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Лида",
+        "street": "улица Фрунзе",
+        "building": "18А",
+        "lat": 53.900056,
+        "lng": 25.301948,
+        "description": null,
+        "raw": "Лида, улица Фрунзе, 18А",
+        "metro": null,
+        "metro_stations": [],
+        "id": "23068553"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-11T19:51:31+0300",
+      "created_at": "2026-02-11T19:51:31+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130374479",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130374479?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130374479",
+      "relations": [],
+      "employer": {
+        "id": "12600031",
+        "name": "Лидская стрела",
+        "url": "https://api.hh.ru/employers/12600031",
+        "alternate_url": "https://hh.ru/employer/12600031",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12600031",
+        "country_id": 4,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Грамотная и четка речь. Умение решать быстро поставленные задачи.",
+        "responsibility": "Прием звонков от клиентов и их регистрация на поездку, а так же работа с компьютером."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_12",
+          "name": "12 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "TWO_ON_TWO_OFF",
+          "name": "2/2"
+        }
+      ],
+      "accept_labor_contract": true,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "39",
+          "name": "Диспетчер"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130378659",
+      "premium": false,
+      "name": "Водитель",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "152",
+        "name": "Актау",
+        "url": "https://api.hh.ru/areas/152"
+      },
+      "salary": {
+        "from": 350000,
+        "to": 700000,
+        "currency": "KZT",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 350000,
+        "to": 700000,
+        "currency": "KZT",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Актау",
+        "street": null,
+        "building": null,
+        "lat": 43.635588,
+        "lng": 51.168245,
+        "description": null,
+        "raw": "Актау",
+        "metro": null,
+        "metro_stations": [],
+        "id": "23173960"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-12T07:36:25+0300",
+      "created_at": "2026-02-12T07:36:25+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130378659",
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130378659?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130378659",
+      "relations": [],
+      "employer": {
+        "id": "12599091",
+        "name": "Айкожаев",
+        "url": "https://api.hh.ru/employers/12599091",
+        "alternate_url": "https://hh.ru/employer/12599091",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12599091",
+        "country_id": 3,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы водителем от 1 года. Знание правил дорожного движения. Ответственность и внимательность. Умение работать с документацией. Техническая грамотность в...",
+        "responsibility": "Доставка грузов, товаров и заказов клиентам. Контроль загрузки и выгрузки автомобиля. Проверка сопроводительных документов. Соблюдение маршрута и сроков доставки. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "21",
+          "name": "Водитель"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130147593",
+      "premium": false,
+      "name": "Токарь - расточник",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": {
+        "from": 400000,
+        "to": null,
+        "currency": "KZT",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 400000,
+        "to": null,
+        "currency": "KZT",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "село Коксай",
+        "street": "Кирпичная улица",
+        "building": "1",
+        "lat": 43.275678,
+        "lng": 76.767608,
+        "description": null,
+        "raw": "село Коксай, Кирпичная улица, 1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "22836841"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-04T07:36:52+0300",
+      "created_at": "2026-02-04T07:36:52+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130147593",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130147593?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130147593",
+      "relations": [],
+      "employer": {
+        "id": "10119482",
+        "name": "АрхиМеталл",
+        "url": "https://api.hh.ru/employers/10119482",
+        "alternate_url": "https://hh.ru/employer/10119482",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/6685025.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/6685026.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/6685027.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10119482",
+        "country_id": 3,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы от 3 лет. Самоконтроль качества обработки. Выявление и устранение дефектов. Соблюдение технических требований и стандартов. Желание работать и...",
+        "responsibility": "Изготовление деталей и узлов различной сложности в соответствии с чертежами, конструкторской документацией. Обработка деталей на токарных станках. Контроль соответствия деталей..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "128",
+          "name": "Токарь, фрезеровщик, шлифовщик"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130103476",
+      "premium": false,
+      "name": "Помощница/помощник администратора в Аэропорт",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2759",
+        "name": "Ташкент",
+        "url": "https://api.hh.ru/areas/2759"
+      },
+      "salary": {
+        "from": 5000000,
+        "to": 12000000,
+        "currency": "UZS",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 5000000,
+        "to": 12000000,
+        "currency": "UZS",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "DAILY",
+          "name": "Ежедневно"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ташкент",
+        "street": "аэропорт Ташкент имени Ислама Каримова",
+        "building": null,
+        "lat": 41.261837,
+        "lng": 69.267205,
+        "description": null,
+        "raw": "Ташкент, аэропорт Ташкент имени Ислама Каримова",
+        "metro": null,
+        "metro_stations": [],
+        "id": "20359829"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-02T17:53:42+0300",
+      "created_at": "2026-02-02T17:53:42+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130103476",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130103476?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130103476",
+      "relations": [],
+      "employer": {
+        "id": "11900391",
+        "name": "ZERNO",
+        "url": "https://api.hh.ru/employers/11900391",
+        "alternate_url": "https://hh.ru/employer/11900391",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11900391",
+        "country_id": 6,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Свободное владение языками: узбекский, русский и английский (обязательно на уровне разговорного, чтобы свободно общаться с иностранными туристами).Знание китайского языка...",
+        "responsibility": "Активные продажи: консультировать пассажиров по услугам камеры хранения и помогать в выборе подходящих ячеек. Прием и выдача: осуществлять прием багажа..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_12",
+          "name": "12 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "SIX_ON_ONE_OFF",
+          "name": "6/1"
+        },
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": true,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "8",
+          "name": "Администратор"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130303604",
+      "premium": false,
+      "name": "Администратор",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2760",
+        "name": "Бишкек",
+        "url": "https://api.hh.ru/areas/2760"
+      },
+      "salary": {
+        "from": 2000,
+        "to": null,
+        "currency": "KGS",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 2000,
+        "to": null,
+        "currency": "KGS",
+        "gross": false,
+        "mode": {
+          "id": "SHIFT",
+          "name": "За смену"
+        },
+        "frequency": {
+          "id": "MONTHLY",
+          "name": "Раз в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Бишкек",
+        "street": "улица 7 Апреля",
+        "building": "122",
+        "lat": 42.843289,
+        "lng": 74.635322,
+        "description": null,
+        "raw": "Бишкек, улица 7 Апреля, 122",
+        "metro": null,
+        "metro_stations": [],
+        "id": "18882200"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-10T07:11:53+0300",
+      "created_at": "2026-02-10T07:11:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130303604",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130303604?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130303604",
+      "relations": [],
+      "employer": {
+        "id": "12179702",
+        "name": "Тавалдыев Б.Ш",
+        "url": "https://api.hh.ru/employers/12179702",
+        "alternate_url": "https://hh.ru/employer/12179702",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12179702",
+        "country_id": 7,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Коммуникабельность. Стрессоустойчивость. Пунктуальность. Честность.",
+        "responsibility": "Следить за работой персонала. Вести учет."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [
+        {
+          "id": "INDIVIDUAL_ENTREPRENEUR",
+          "name": "с ИП"
+        }
+      ],
+      "night_shifts": true,
+      "professional_roles": [
+        {
+          "id": "8",
+          "name": "Администратор"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130418558",
+      "premium": false,
+      "name": "Сотрудник на склад",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": {
+        "from": 350000,
+        "to": null,
+        "currency": "KZT",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 350000,
+        "to": null,
+        "currency": "KZT",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Алматы",
+        "street": "микрорайон Кемел, улица Есим Хана",
+        "building": "14",
+        "lat": 43.363325,
+        "lng": 76.9327,
+        "description": null,
+        "raw": "Алматы, микрорайон Кемел, улица Есим Хана, 14",
+        "metro": null,
+        "metro_stations": [],
+        "id": "17638402"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-13T08:29:45+0300",
+      "created_at": "2026-02-13T08:29:45+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130418558",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130418558?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130418558",
+      "relations": [],
+      "employer": {
+        "id": "1348595",
+        "name": "Торговый Дом Novartis",
+        "url": "https://api.hh.ru/employers/1348595",
+        "alternate_url": "https://hh.ru/employer/1348595",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1348595",
+        "country_id": 3,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Активность. Умение работать в коллективе. Исполнительность. Ответственность.",
+        "responsibility": "Осуществление погрузочно - разгрузочных работ. Поддержание порядка на складе. Обеспечивать сохранность товара. Оператор станка."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "131",
+          "name": "Упаковщик, комплектовщик"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130266581",
+      "premium": false,
+      "name": "Администратор по обеспечению офиса",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "153",
+        "name": "Атырау",
+        "url": "https://api.hh.ru/areas/153"
+      },
+      "salary": {
+        "from": 250000,
+        "to": 250000,
+        "currency": "KZT",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 250000,
+        "to": 250000,
+        "currency": "KZT",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "MONTHLY",
+          "name": "Раз в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Атырау",
+        "street": "проспект Азаттык",
+        "building": "7",
+        "lat": 47.107934,
+        "lng": 51.922579,
+        "description": null,
+        "raw": "Атырау, проспект Азаттык, 7",
+        "metro": null,
+        "metro_stations": [],
+        "id": "23027946"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-09T08:07:26+0300",
+      "created_at": "2026-02-09T08:07:26+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130266581",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130266581?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130266581",
+      "relations": [],
+      "employer": {
+        "id": "9852565",
+        "name": "KBS",
+        "url": "https://api.hh.ru/employers/9852565",
+        "alternate_url": "https://hh.ru/employer/9852565",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9852565",
+        "country_id": 3,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знание основ делопроизводства и оргтехники. Владение MS Office (Word, Excel). Грамотная речь (казахский, русский языки). Навыки многозадачности, коммуникабельность и ответственность.",
+        "responsibility": "Обеспечение жизнедеятельности: Закупка канцтоваров, расходных материалов для оргтехники, хозяйственных товаров, чая/кофе, воды. Работа с посетителями и документами: Прием и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": true,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "8",
+          "name": "Администратор"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130431145",
+      "premium": false,
+      "name": "Стажер в федеральное агентство (м. Таганская )",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 290000,
+        "to": 390000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 290000,
+        "to": 390000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Таганско-Краснопресненская линия",
+        "building": "метро Таганская",
+        "lat": 55.739549,
+        "lng": 37.652957,
+        "description": null,
+        "raw": "Москва, Таганско-Краснопресненская линия, метро Таганская",
+        "metro": {
+          "station_name": "Марксистская",
+          "line_name": "Калининская",
+          "station_id": "8.78",
+          "line_id": "8",
+          "lat": 55.740746,
+          "lng": 37.65604
+        },
+        "metro_stations": [
+          {
+            "station_name": "Марксистская",
+            "line_name": "Калининская",
+            "station_id": "8.78",
+            "line_id": "8",
+            "lat": 55.740746,
+            "lng": 37.65604
+          },
+          {
+            "station_name": "Римская",
+            "line_name": "Люблинско-Дмитровская",
+            "station_id": "10.113",
+            "line_id": "10",
+            "lat": 55.747027,
+            "lng": 37.679996
+          },
+          {
+            "station_name": "Таганская",
+            "line_name": "Кольцевая",
+            "station_id": "5.76",
+            "line_id": "5",
+            "lat": 55.742396,
+            "lng": 37.653334
+          },
+          {
+            "station_name": "Таганская",
+            "line_name": "Таганско-Краснопресненская",
+            "station_id": "7.77",
+            "line_id": "7",
+            "lat": 55.739502,
+            "lng": 37.653605
+          }
+        ],
+        "id": "7438885"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-13T12:45:25+0300",
+      "created_at": "2026-02-13T12:45:25+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130431145",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130431145?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130431145",
+      "relations": [],
+      "employer": {
+        "id": "3123738",
+        "name": "Vysotsky Estate",
+        "url": "https://api.hh.ru/employers/3123738",
+        "alternate_url": "https://hh.ru/employer/3123738",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/3855490.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/3855491.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/3855492.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3123738",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Отсутствует ограничение по возрасту. 1. Обучение, аналога которому нет на рынке. Мы не просто Вас обучаем, а Вы получите удостоверение...",
+        "responsibility": "Организация переговоров между покупателем и продавцом. Анализ ценообразования. Проведение показов недвижимости."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_5",
+          "name": "5 часов"
+        },
+        {
+          "id": "HOURS_6",
+          "name": "6 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [
+        {
+          "id": "SELF_EMPLOYED",
+          "name": "с самозанятым"
+        },
+        {
+          "id": "INDIVIDUAL_ENTREPRENEUR",
+          "name": "с ИП"
+        },
+        {
+          "id": "INDIVIDUAL_PERSON",
+          "name": "с физлицом"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130066631",
+      "premium": false,
+      "name": "Стажер на маркетплейсах (Wildberries, Ozon)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1007",
+        "name": "Брест",
+        "url": "https://api.hh.ru/areas/1007"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "Волгоградская улица",
+        "building": "33",
+        "lat": 53.935426,
+        "lng": 27.617221,
+        "description": null,
+        "raw": "Минск, Волгоградская улица, 33",
+        "metro": null,
+        "metro_stations": [],
+        "id": "17593302"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-01T23:57:19+0300",
+      "created_at": "2026-02-01T23:57:19+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130066631",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130066631?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130066631",
+      "relations": [],
+      "employer": {
+        "id": "11801211",
+        "name": "Подарок Бренд",
+        "url": "https://api.hh.ru/employers/11801211",
+        "alternate_url": "https://hh.ru/employer/11801211",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11801211",
+        "country_id": 4,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Наличие сертификатов об окончании профильных курсов. Понимание работы Wildberries. Высокая степень желания. Реальный опыт: Работа с живым товаром и рекламным...",
+        "responsibility": "Работа с карточками и SEO в том числе с помощью MPSTATS: Глубокая оптимизация: Сбор и внедрение ключевых запросов, чтобы карточка..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "FLEXIBLE",
+          "name": "По договорённости"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "68",
+          "name": "Менеджер по маркетингу, интернет-маркетолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130197248",
+      "premium": false,
+      "name": "Кассир-бариста",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": {
+        "from": 7000,
+        "to": 15000,
+        "currency": "KZT",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 7000,
+        "to": 15000,
+        "currency": "KZT",
+        "gross": false,
+        "mode": {
+          "id": "SHIFT",
+          "name": "За смену"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Алматы",
+        "street": "улица Кенесары хана",
+        "building": "54/43",
+        "lat": 43.169739,
+        "lng": 76.873699,
+        "description": null,
+        "raw": "Алматы, улица Кенесары хана, 54/43",
+        "metro": null,
+        "metro_stations": [],
+        "id": "7093397"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-05T10:51:41+0300",
+      "created_at": "2026-02-05T10:51:41+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130197248",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130197248?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130197248",
+      "relations": [],
+      "employer": {
+        "id": "5878175",
+        "name": "Жилисбаева А.Т",
+        "url": "https://api.hh.ru/employers/5878175",
+        "alternate_url": "https://hh.ru/employer/5878175",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5878175",
+        "country_id": 3,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы бариста и в сфере общепита желателен. Пунктуальность и аккуратность. Вежливость, доброжелательность, умение работать в команде.",
+        "responsibility": "Обслуживание гостей с улыбкой и вниманием. Приготовление напитков. Поддержание чистоты на рабочем месте и в зале. Работа с кофемашиной. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_7",
+          "name": "7 часов"
+        },
+        {
+          "id": "HOURS_12",
+          "name": "12 часов"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "По договорённости"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "THREE_ON_TWO_OFF",
+          "name": "3/2"
+        },
+        {
+          "id": "TWO_ON_TWO_OFF",
+          "name": "2/2"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "89",
+          "name": "Официант, бармен, бариста"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130256302",
+      "premium": false,
+      "name": "Бармен кассир",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2759",
+        "name": "Ташкент",
+        "url": "https://api.hh.ru/areas/2759"
+      },
+      "salary": {
+        "from": 7000000,
+        "to": 9000000,
+        "currency": "UZS",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 7000000,
+        "to": 9000000,
+        "currency": "UZS",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ташкент",
+        "street": "улица Мирабад",
+        "building": "9А",
+        "lat": 41.294202,
+        "lng": 69.269343,
+        "description": null,
+        "raw": "Ташкент, улица Мирабад, 9А",
+        "metro": null,
+        "metro_stations": [],
+        "id": "13622695"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-07T11:37:37+0300",
+      "created_at": "2026-02-07T11:37:37+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130256302",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130256302?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130256302",
+      "relations": [],
+      "employer": {
+        "id": "9095564",
+        "name": "ООО SATIKAFE (ТМ FARШ)",
+        "url": "https://api.hh.ru/employers/9095564",
+        "alternate_url": "https://hh.ru/employer/9095564",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/5598535.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo-round/5598536.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo-round/5598537.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9095564",
+        "country_id": 6,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знание кассовой дисциплины. Опыт обязательное. Внимательность, честность, аккуратность. Умение работать в активном режиме. Опыт работы барменом от 1 года. ",
+        "responsibility": null
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_12",
+          "name": "12 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "SIX_ON_ONE_OFF",
+          "name": "6/1"
+        },
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": true,
+      "civil_law_contracts": [
+        {
+          "id": "SELF_EMPLOYED",
+          "name": "с самозанятым"
+        },
+        {
+          "id": "INDIVIDUAL_ENTREPRENEUR",
+          "name": "с ИП"
+        },
+        {
+          "id": "INDIVIDUAL_PERSON",
+          "name": "с физлицом"
+        }
+      ],
+      "night_shifts": true,
+      "professional_roles": [
+        {
+          "id": "89",
+          "name": "Официант, бармен, бариста"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130207557",
+      "premium": false,
+      "name": "Водитель на служебный автомобиль компаний (ПИКАП)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": {
+        "from": 300000,
+        "to": 300000,
+        "currency": "KZT",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 300000,
+        "to": 300000,
+        "currency": "KZT",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "MONTHLY",
+          "name": "Раз в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Алматы",
+        "street": "проспект Достык",
+        "building": "97",
+        "lat": 43.229853,
+        "lng": 76.959317,
+        "description": null,
+        "raw": "Алматы, проспект Достык, 97",
+        "metro": {
+          "station_name": "Абая",
+          "line_name": "Первая",
+          "station_id": "64.433",
+          "line_id": "64",
+          "lat": 43.242548,
+          "lng": 76.949588
+        },
+        "metro_stations": [
+          {
+            "station_name": "Абая",
+            "line_name": "Первая",
+            "station_id": "64.433",
+            "line_id": "64",
+            "lat": 43.242548,
+            "lng": 76.949588
+          },
+          {
+            "station_name": "Алмалы",
+            "line_name": "Первая",
+            "station_id": "64.432",
+            "line_id": "64",
+            "lat": 43.251295,
+            "lng": 76.945456
+          },
+          {
+            "station_name": "Байконур",
+            "line_name": "Первая",
+            "station_id": "64.434",
+            "line_id": "64",
+            "lat": 43.240401,
+            "lng": 76.927696
+          },
+          {
+            "station_name": "Жибек Жолы",
+            "line_name": "Первая",
+            "station_id": "64.431",
+            "line_id": "64",
+            "lat": 43.260199,
+            "lng": 76.946103
+          }
+        ],
+        "id": "22906205"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-05T14:09:42+0300",
+      "created_at": "2026-02-05T14:09:42+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130207557",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130207557?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130207557",
+      "relations": [],
+      "employer": {
+        "id": "3465294",
+        "name": "AlmatyEngineering",
+        "url": "https://api.hh.ru/employers/3465294",
+        "alternate_url": "https://hh.ru/employer/3465294",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3465294",
+        "country_id": 3,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Водитель категории В. Стаж от 5 лет и более. Управление служебным автомобилем. Аккуратный и безопасный стиль вождения. Знание города, умение...",
+        "responsibility": "Развозка сотрудников компании (в банк, на встречи и т.д.). Доставка и получение документов (по указанным адресам, с объектов). "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "21",
+          "name": "Водитель"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130279061",
+      "premium": false,
+      "name": "Водитель экспедитор",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": {
+        "from": 650000,
+        "to": null,
+        "currency": "KZT",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 650000,
+        "to": null,
+        "currency": "KZT",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "MONTHLY",
+          "name": "Раз в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "село Райымбек",
+        "street": "улица Алмалы",
+        "building": "65А",
+        "lat": 43.181238,
+        "lng": 76.733984,
+        "description": null,
+        "raw": "село Райымбек, улица Алмалы, 65А",
+        "metro": null,
+        "metro_stations": [],
+        "id": "23039941"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-09T11:54:55+0300",
+      "created_at": "2026-02-09T11:54:55+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130279061",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130279061?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130279061",
+      "relations": [],
+      "employer": {
+        "id": "2527877",
+        "name": "Platinum Sharks",
+        "url": "https://api.hh.ru/employers/2527877",
+        "alternate_url": "https://hh.ru/employer/2527877",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/2211894.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo-round/2211895.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo-round/2211896.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2527877",
+        "country_id": 3,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Ответственный, энергичный. Пунктуальный, чистоплотный, мобильный, коммуникабельный человек. Умение вежливо общаться с клиентами. Аккуратность в работе. Умение работать в команде.",
+        "responsibility": "Сопровождение документации. Обеспечение сохранности вверенного товара. Бережное отношение к доставляемой продукции. Развозка товаров до последнего клиента (на своем авто: газель..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        },
+        {
+          "id": "FIELD_WORK",
+          "name": "Разъездной"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "SIX_ON_ONE_OFF",
+          "name": "6/1"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "21",
+          "name": "Водитель"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "130217540",
+      "premium": false,
+      "name": "Стикеровщик продукции Пиво/Напитки",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2301",
+        "name": "Лида",
+        "url": "https://api.hh.ru/areas/2301"
+      },
+      "salary": {
+        "from": 1500,
+        "to": 1800,
+        "currency": "BYR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 1500,
+        "to": 1800,
+        "currency": "BYR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Лида",
+        "street": null,
+        "building": null,
+        "lat": 53.891667,
+        "lng": 25.302254,
+        "description": null,
+        "raw": "Лида",
+        "metro": null,
+        "metro_stations": [],
+        "id": "15647843"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-02-05T16:24:45+0300",
+      "created_at": "2026-02-05T16:24:45+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=130217540",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/130217540?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/130217540",
+      "relations": [],
+      "employer": {
+        "id": "3834530",
+        "name": "ВВП Трейд Сервис",
+        "url": "https://api.hh.ru/employers/3834530",
+        "alternate_url": "https://hh.ru/employer/3834530",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/2876819.png",
+          "90": "https://img.hhcdn.ru/employer-logo-round/2876820.png",
+          "240": "https://img.hhcdn.ru/employer-logo-round/2876821.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3834530",
+        "country_id": 4,
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Внимательность, усидчивость, ответственность.",
+        "responsibility": "Маркировка товара, пиво и безалкогольные напитки ."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": true,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "31",
+          "name": "Грузчик"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    }
+  ],
+  "found": 935339,
+  "pages": 100,
+  "page": 0,
+  "per_page": 20,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true"
+}
