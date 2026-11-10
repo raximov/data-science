@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+env/
+*.o
+*.a
+*.so
+*.out
+*.exe
+*.dll
+.DS_Store
+Thumbs.db
