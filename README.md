@@ -1,6 +1,6 @@
 # Data Science & Deep Learning (School 21)
 
-Data Science Bootcamp and applied DS projects covering Pandas/SQL analytics, visualization, MovieLens analytics, Twitter NLP sentiment (Word2Vec), and Bank Churn MLP (Scikit-learn, TensorFlow/Keras, pure NumPy).
+Data Science Bootcamp and applied DS projects covering Pandas/SQL analytics, visualization, MovieLens analytics, Food Nutrition recommender, Twitter NLP sentiment (Word2Vec), and Bank Churn MLP (Scikit-learn, TensorFlow/Keras, pure NumPy).
 
 ## Projects
 
@@ -10,6 +10,7 @@ Data Science Bootcamp and applied DS projects covering Pandas/SQL analytics, vis
 | [DS2_Churn_prediction](./DS2_Churn_prediction/) | Churn prediction | 2026-07-28 | 8 |
 | [DSB10_Intro_to_ML](./DSB10_Intro_to_ML/) | Intro to Machine Learning | 2026-03-16 | 11 |
 | [DSB11_ML_Advanced](./DSB11_ML_Advanced/) | Machine Learning: Advanced | 2026-03-18 | 13 |
+| [DSB12_Food_nutrition](./DSB12_Food_nutrition/) | Food and nutrition | 2026-03-21 | 10 |
 | [DSB2_Syntax_Semantics](./DSB2_Syntax_Semantics/) | Intro to Python: Syntax and Semantics | 2026-02-22 | 16 |
 | [DSB3_OOP_skills](./DSB3_OOP_skills/) | Intro to Python: OOP skills | 2026-03-01 | 12 |
 | [DSB4_Package_management](./DSB4_Package_management/) | Intro to Python: Package management and virtual environment | 2026-03-02 | 18 |
